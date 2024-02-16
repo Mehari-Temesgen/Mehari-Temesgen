@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate Web developer from Ethiopian</p>
+<p align="left"> 💻 A passionate Web developer from Ethiopian</p>
 
 ###
 
